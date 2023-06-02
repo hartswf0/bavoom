@@ -1,0 +1,450 @@
+Babka Lorebook                                          5
+   Start here!                                         8
+  ‍♂ Founder Vision Notes                             10
+  Babka Brand 2023 Kick-off                            11
+     Nushi Robot RE Plan                              12
+  Babka RE Plans                                       13
+     Babka OKR RE Updates                             14
+        KR-2618 - Babka Features & Capabilities       15
+        KR-2619 - Integrate Babka into 100 Projects   18
+        KR-2620 - Babka User Acquisition              20
+     Babka.com RE Plan                                23
+     Babka Integrations RE Plans                      27
+        Babka Overlay for Metasites RE Plan           28
+        X.LA <-> Babka Integration RE Plan            30
+        LTG <-> Babka Integration RE Plan             31
+     Conversational Commerce RE Plan                  33
+     Babka Twitch Virtual Influencer RE Plan          35
+     Loonshots RE Plans                                36
+     Babka Cards RE Plan                              37
+     Babka Bot RE Plan                                 38
+     Babka SDK RE Plan                                40
+     Babka Referral Payouts RE Plan                   41
+     Babka User Acquistion RE Plan                    42
+     Archived RE Plans                                44
+        Babka @ GDC RE Plan                           45
+        Babka Web3 Wallet RE Plan                     47
+        Babka Brand RE Plan                           49
+        Babka Conversational Commerce RE Plan         56
+     RE Plan Template                                 57
+   Babka Brand: The Basics                            58
+  Babka Book                                           61
+     Babka Book: Volume I                              62
+     Babka Book: Volume II                             63
+   Babka: The Storyworld                              64
+     Babka's World                                    66
+        Timestream B-102 Overview                     76
+     ‍♀ Babka: The Character                          86
+        Babka Profile Info                             89
+      Nushi: The Character                            91
+        Babka's Lore                                  96
+     Babka: The World                                  98
+     Babka Philosophy                                  99
+        Babka as Merchant Meta-character              100
+        To Babka...or Not to Babka?                   103
+  Babka Systems                                       106
+  ‍♀ Babka Identity                            108
+  Babka Metacurrencies (Orbs)                  109
+      Gold Orbs                                112
+      Blue Orbs                                117
+      Silver Orbs                              121
+      Miscellaneous Orbs                       124
+      Orbs & Metacurrencies Glossary           126
+      Orbs Development Archive                 130
+   Babka Inventories                           132
+   Babka in Support                            138
+Babka Account                                  139
+   Babka Inventory Briefs                      142
+      Babka Wallet Brief                       143
+      Babka Keychain Brief                     146
+      Babka Backpack Brief                     151
+      Babka Storage Brief                      154
+      Babka Wardrobe Brief                     157
+      Babka Garage Brief                       160
+   Babka Pro                                   163
+Babka Product Ecosystem                        164
+   Babka Login                                 166
+   Babka UI Overlay                            167
+   Babka Pay                                   169
+   Babka Payouts                               170
+   Babka Support                               171
+      Babka Support CX                         176
+   Babka Credit Card                           181
+Babka Integrations                             184
+   Babka Integrations Guidelines & Standards   186
+   Metasites                                   188
+   X.LA                                        190
+   LTG                                         191
+   Story3                                      192
+   Game Publishers                             193
+Babka User Flows                               194
+   Key Babka Flows                             195
+      Login Flow Examples                      200
+   Babka Account Site Map                      212
+      Home Page UX/UI Prototype                213
+      Mailbox UX/UI Prototype                  215
+      Wallet UX/UI Prototype                   217
+      Backpack UX/UI Prototype                 220
+      Keychain UX/UI Prototype                 222
+      Passport UX/UI Prototype                 224
+      Purchase Log UX/UI Prototype             227
+Babka Brand Design Systems                   229
+  Babka Brand Design Legacy                  231
+  Babka in Games and Elsewhere               232
+Babka Operations                             234
+   2023 Roadmap                              235
+  Babka Brand Structure & Processes          236
+     Labels for Jira Plans                   237
+  Babka Integrations Strategy                239
+  Product Planning and Priorities            241
+     Babka Q1 Flow Priority                  242
+  Babka Metrics                              247
+  Meeting Notes                              248
+     Meetings Template                       249
+     12-13-22 / Payments for XLA Metasites   250
+  Babka Greenbook                            252
+Babka User Acqusition                        253
+  Drops                                      254
+  Babka Green Book                           255
+   Babka Quests                              256
+  Future UA Methods                          257
+  Babka Socials Approach                     258
+B2C Engagement Playbook                      260
+  BD Babka Playbook                          261
+  User Engagement Mechanics                  262
+     Identity                                264
+     Currency                                265
+     Inventory                               266
+  Babka Email Engagement                     267
+Babka Transmedia                             280
+  Babka's Transmissions                      281
+  Babka Content Strategy                     283
+  Babka ARG (Alternate Reality Game)         284
+  Brief: Babka Mocap Content Concepts        285
+  Babka Mocap: Content Part 2                291
+  Babka’s Voice Brief                        302
+Babka @ Events                               307
+  Core Event Components                      309
+     BABKA COSTUME INSTRUCTIONS              312
+     Nushi CyberCat (TBD)                    335
+  Event Experience Design Details            345
+  Babka Live Activation Concepts             349
+     Babka's Photo Ops                       350
+     Babka's Lemonade Stand                  356
+     Babka's Cosplay Repair Station          360
+     Babka's Merchant Tea Lounge             362
+     Babka's Orbs: Racer Edition                                              368
+     Babka's Babka's (Food Cart)                                              373
+  Babka Events 2023                                                           377
+     Babka @ GDC 2023                                                         378
+        GDC 2023 Red Carpet After Action Report                               386
+     BABKA @ E3 2023 (Cancelled - See Xsolla Lounge)                          388
+     Babka @ Comicon: San Diego, CA July 20, 2023                             394
+     Babka @ Gamescom: Cologne, Germany Aug23-27, 2023                        396
+     Babka @ Tokyo Game Show, Tokyo, Japan Sept 21-24                         399
+     Babka @ Gstar: Busan, Korea Nov 16-19                                    400
+  Babka Events Template                                                       403
+Vision for GDC from Shurick                                                   406
+Babka Charity                                                                 410
+Babka @ Loonshots                                                             411
+  Babka Tribe Kick-off                                                        414
+  Babka Bot                                                                   415
+     Re Plan: Babka Bot                                                       416
+  Babka Loyalty                                                               417
+       Babka Loyalty Brief                                                    418
+     Re Plan: Babka Loyalty                                                   423
+  Babka Game Integrations (Babka In-Game Outposts + Metasites Integrations)   424
+     Re Plan: In Game Outposts                                                427
+  Babka Twitch Virtual Influencer                                             428
+     Re Plan: Twitch Virtual Influencer                                       429
+     [CANVAS] Babka Twitch Virtual Influencer                                 430
+     [PR/FAQ] Babka Twitch Virtual Influencer                                 431
+  Nushi Robot                                                                 432
+     RE Plan: Nushi Robot                                                     440
+Babka Teams                                                                   442
+  Core Team                                                                   443
+  Babka @ Xsolla Teams                                                        445
+   Babka The Book                                                             450
+Babka Brand F.A.Q.                                                            451
+Babka Lorebook Architecture                                                   453
+  Copy of Vision for GDC from Shurick                                         460
+Babka Core Document Playground                                                465
+  Keynote w/ the Blue Cat                                                     466
+   Babka Passport Brief                                                       467
+  [Experimental] Nushi's Improvisational Go-To-Market Strategy with Xsolla    470
+  Legacy Documentation                                                        472
+     Brand Keeper Notes                                                       473
+     Brand Assets                                                             474
+  Orbs Development Process                                                    475
+Babka Integrations Manual                                                     477
+Babka Wrap                                                                    479
+    Babka Lorebook
+
+
+     Welcome to the Babka LoreBook!
+     Here are a few suggestions to get started:
+
+         Read the Babka Operations Manual:           Babka: Operations Manual
+         View the Babka Brand Kickoff Deck:
+             Sign in to access Google Drive Presentation
+
+         Study the Babka World Briefs:
+         Explore the Babka Ecosystem Map:
+         Visit the Babka Bibliography where all Babka Documents are linked:
+             Sign in to access Google Drive Document
+
+         Questions? Ask the Babka Lorekeeper @Noah Crowe
+
+
+
+
+     Search the Babka Lorebook
+
+
+
+
+Babka and Us
+Babka exists in our world through inspiring us in the video games she is able to inhabit. As characters from dreams are
+made real through art, and then Cosplayers bring this art to life into the walkable world, Babka is made real through her
+interactions with gamers in video game worlds. Babka can exist within the reality of any video game, and in any game
+where human characters cannot tread, she sends her cyber-cat Nushi to lead gamers to her outposts which reward
+them with items that can help them in the games they are playing. As more and more players engage with Babka, her
+ability to help them expands beyond the screen into the walkable world. She is the cross-game metaverse merchant,
+and our digital-physworld mentor.
+
+
+
+
+Babka as Meta-Character
+Babka’s presence will transcend browser, games, web3 and the physical world. Hence, how we integrate Babka into
+games and any other social experience must be based upon her foundational premise: a benevolent merchant who is
+here to help everyone (gamers, game developers, any future partners, and us) win. To suspend our audiences disbelief
+and create one of the first web3 characters whose story could feasibly be real, we must ensure every integration and
+
+
+
+
+                                                              5
+appearance of Babka emerges from a coherent story spine. She can adapt and go anywhere as long as we tell a
+cohesive story.
+
+
+
+Babka: The World
+Babka has carved out a hidden outpost on the edge of an old hydroelectric power-plant that she has spliced into a high-
+frequency radio transmission tower. Her world is not bleak. In many places, nature has taken over, tree roots
+dismembering old buildings, forgotten highway overpasses are graceful arcs of elevated wildflowers and the occasional
+immature tree. There are fortified elite cities, where 90% of the population live, and the few stragglers who live in the
+wilds, those not indentured into the social credit system which keeps the elite in total power, do their best to grow a
+living from the lands not profitable enough to be held in the dominion of the few.
+
+   ฀ Babka Wallet Brief ฀                     Babka Inventories                           ฀ Babka Backpack Brief ฀
+
+   ฀Babka Metacurrencies (Orbs)               ฀ Babka Loyalty Brief                       ฀ Babka Wardrobe Brief ฀
+
+   ฀ Babka Passport Brief ฀                   ฀ Babka Support                             ฀ Babka Garage Brief ฀
+
+   ฀ Babka Keychain Brief ฀                                                               ฀Babka Storage Brief ฀
+
+
+
+
+Babka: The Backstory
+Originally a helio-physicist freelancing between different national space agencies, Babka discovered something totally
+unexpected when pointing her satellite dishes at the sun to study the patterns hidden within solar wind. And then, the
+6th pandemic lockdown, and the final walled cities ended organic human population growth. The population has been
+excised to 40% of what we once knew. In this future, if you are not one of the few who own everything, you own nothing,
+and no one is playing games. They are just trying to maintain their membership in those walled cities that are the only
+source for human survival, unless you’re willing to brave the forgotten lands.Babka lives in these lands, and though now
+she is 100’s of years old, Babka has always been a gamer.
+
+In fact, Babka is a future-self-friend from 70 years in the future who has discovered how to digitally time travel BACK to
+now through our video games to help you play the game of life so that you win. (And selfishly, so that she’s not alone in
+the future.)
+
+She wants to make sure that all the equity, data and identity of this generation is valued and generates value for
+them/herself. (she lost something very dear, she is trying to avert the future she came from: a world that continued on
+this present course. She’s grieving, she’s sad, she’s lost people…but she’s angry, she’s smart, she’s found a way
+through time and through different realities (games, virtual, real) and this time she’s going to make sure that ALL of her
+friends, that’s YOU, make it. Because if things keep going the way they have been, the future is a very lonely place.
+
+
+
+Nushi: The Backstory
+On Nov. 3, 1957, the Soviet Union lofted a dog named Laika aboard the satellite Sputnik 2. Laika, a stray mongrel found
+on the streets of Moscow was the first living creature to orbit Earth. On ______, 2099, Babka launched Nushi’s
+consciousness into the metaverse.
+
+Nushi was a real cat who Babka believes is her soulmate. Nushi lived a long life to the age of 22, which is quite a few in
+cat years. Before Nushi’s body gave out due to standard cat causes, Babka created a human to cat interface so she
+could understand and speak to her cat. Cats speak in pictures and feelings. Through her early dialogues with Nushi in
+the cyberverse, Babka was able to create a cat-human language translator, and discovered that Nushi could navigate
+and was actually quite interested to explore this space that had no gravity, that behaved completely differently than the
+world of grass and gopher chasing.
+
+
+                                                              6
+However, it was cumbersome to try to communicate the essence of the internet and Babka’s long-term plans by
+translating each of her ideas into images a cat, whose primary reference points were bowls of milk, warm laps, sunlight
+corners of the rug and fun to chase mice, when her idea was to somehow travel back in time to save her friends from
+technological obsolescence. Thus Nushi became a proto-cyborg-feline when Babka connected Nushi’s neural-image
+processing circuits to AI databases.
+
+Nushi is a Feline-AI hybrid, first a cat, second an AI that has access to the web, yet thinks through the mind and heart of
+a cat. Which means Nushi is a little playful, crafty, and yes, will for no reason at all knock expensive things off the table.
+When Nushi’s consciousness continued even after their body died, Babka realized she had a way to test her hypothesis
+without risking the failure of her entire experiment through her own accidental/ miscalculated death: she could send
+Nushi.
+
+Nushi is the future scout for Babka, or more specifically, the scout into the past. As Nushi continues to make contact with
+gamers from today (Nushi and Babka’s past) Babka is able to extend more and more of her resources towards helping
+us. Nushi goes where Babka cannot go, and Nushi goes first to test the physics of any new game Babka seeks to
+infiltrate. Nushi is our guide to discovering Babka.
+
+
+
+In-Game Integrations
+(Here will be a collection of the lore regarding in-game integrations of Babka and Nushi so we can maintain a cohesive
+narrative across games)
+
+
+
+
+฀ Most viewed articles
+Add the most viewed documents by typing          /LINK   .
+
+
+
+฀ Recently updated
+You'll see the 5 most recently updated pages that you and your team create.
+
+
+   Babka Wrap
+   May 26, 2023 • contributed by Ishan Shapiro
+
+   ฀♀ Babka: The Character
+   May 16, 2023 • contributed by Noah Crowe
+
+   RE Plan: Nushi Robot
+   May 13, 2023 • contributed by Ishan Shapiro
+
+   Babka @ Tokyo Game Show, Tokyo, Japan Sept 21-24
+   May 11, 2023 • contributed by Noah Crowe
+
+   Babka Integrations Guidelines & Standards
+   May 09, 2023 • contributed by Ishan Shapiro
+
+
+
+
+                                                               7
+    ฀ Start here!
+
+Welcome to the Babka Lorebook.
+
+Your single source of truth for Babka
+
+This confluence space is the most up to date, current view of the Babka Brand, across all products, within Xsolla, Xsolla
+Labs (Loonshots), and XTRA. Go through and read through as much of this Lorebook as is relevant to you.
+
+We welcome your comments, reactions and feedback. Questions? Can’t find the knowledge you’re looking for? Ask the
+Babka Lorekeeper @Noah Crowe .
+
+
+
+Search the Babka Lorebook
+
+
+
+
+                                                  Search                        Search
+
+
+
+
+Here are a few other suggestions on where to get started to get to know Babka:
+
+   Read Shurick’s Vision Notes on Babka:       ฀♂ Founder Vision Notes
+   Go over the basics about Babka:       ฀ Babka Brand: The Basics
+   Watch the Babka Kickoff Presentation:       Babka Brand 2023 Kick-off
+   Get to know the Babka Team:       Core Team
+   Get to know the Babka Product Ecosystem:         Babka Product Ecosystem
+
+   Read about the Babka Account:        Babka Account
+   Study the Babka Inventory Briefs:      Babka Inventory Briefs
+   Read about Babka @ Events:          ฀ Babka @ Events
+   Explore the Babka Ecosystem Map:         https://miro.com/app/board/uXjVP3IZjdk=/?share_link_id=99699682934 - Co
+    nnect your Miro account
+
+   Visit the Babka Bibliography where all Babka Documents are linked:       Babka Bibliography
+
+
+
+
+                                                            8
+Babka Says:
+
+Keep an eye on the page status at the top.
+
+   If it’s CANON, that means it's the source of truth.
+   If it’s LORE, it’s not official yet.
+   If it’s IN REVIEW, we are actively seeking feedback from stakeholders.
+   If it’s a work in progress, it’s labelled WIP and in process of being circulated for feedback, workshopped, and
+   or incubated.
+   TBC (to be completed) pages are currently empty and awaiting content
+
+
+
+
+                                                         9
+    ฀♂ Founder Vision Notes
+
+“Everyone is replaceable…unless they have a billion users with credit cards attached.”
+
+Babka is not a spurious vision. She is a strategic pivot from B2B to B2C. Babka and her suite of features and services
+make Xsolla resilient against market forces. The notes below outline a clear picture of how Babka can get us to the 1
+billion users benchmark.
+
+
+
+
+Babka-specific Vision Notes
+
+Babka UA Vision:       Babka UA Vision
+
+Outlines the need to make Xsolla indispensable by establishing direct relationship to gamers.
+
+Babka Payments:        Babka Payments
+
+Babka Payouts:      Babka payouts
+
+
+
+
+Babka-related Vision Notes
+
+Cloud Strategy:     Cloud Strategy
+
+Babka Items Display:       Babka items display
+
+X.LA Drops, Top-up Shop:       X.LA drops, top-ups, shops
+
+
+
+
+Process:
+On founders vision notes:
+
+Post confluence page links to track overall project (vision, strategy, promises, etc) onto original Founders note.
+
+Additionally, there could be other RE managers within the project (ie Xsolla, XTRA, Loonshots, Payments, etc). Please
+assign those managers as well and note on the confluence page. The goal is to tie the high level project documentation
+to the founders vision pages. Let me know if you have any questions!
+
+Thanks!
+
+
+
+
+                                                              10
+
